@@ -64,7 +64,7 @@ To predict stock prices, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Stock-Market-HMM.git
+   git clone https://github.com/rohan-chandrashekar/Stock-Market-HMM.git
    cd Stock-Market-HMM
    ```
 
