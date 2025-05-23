@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+hmmlearn
+scikit-learn
+tqdm
+pandas_datareader
+argparse
+openpyxl 
